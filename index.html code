@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <title>My First Webpage</title>
+   <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+   <h1>Peppa pigs new family</h1>
+   <p>This is peppas new family because evie is here and she literally is a nobody. they can't just add another child after 24 years. down below are links to other sources talking about peppa pig and her family.</p>
+   <p><a href="number 2.html">number 2.html</a></p>
+   <p><a href="number 3.html">number 3.html</a></p>
+   <p><a href="https://github.com/teacher-aj/HeschelCS"> github.com</a></p>
+   <img src="/Users/leorabowers-poulad/Desktop/coding pics/download copy.jpg" alt="Peppa Pigs NEW family">
+   <p>Below is a list of Peppas new family.</p>
+   <ul>
+    <li>Daddy Pig</li>
+    <li>Mummy Pig</li>
+    <li>Peppa Pig</li>
+    <li>George Pig</li>
+    <li>Evie Pig</li>
+    <table border="1">
+      <tr>
+        <td>Daddy Pig</td>
+        <td>10/10</td>
+      </tr>
+      <tr>
+        <td>Mummy Pig</td>
+        <td>10/10</td>
+      </tr>
+      <tr>
+        <td>Peppa Pig</td>
+        <td>10/10</td>
+      </tr>
+      <tr>
+        <td>George Pig</td>
+        <td>10/10</td>
+      </tr>
+      <td>Evie Pig</td>
+      <td>-10/10</td>
+    </table>
+ </body>
+ </html>
+ 
