@@ -1,2 +1,2 @@
 # Index.html
-This is the first thing that we have done.
+This is the first piece of code that we did.
