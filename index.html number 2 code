@@ -1,0 +1,14 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <title>My First Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+   <h1>Peppa pigs real family</h1>
+   <p>This is peppas real family. without evie because shes new and she doesnt count.</p>
+   <p>George Pig makes me mad becasue why does his name not sound good together? Literally all of Peppas families names sound good together except for George. I don't even call him George Pig. I just call him George.</p>
+   <p><a href="index.html">index.html</a></p>
+   <img src="/Users/leorabowers-poulad/Desktop/coding pics/download-1.jpg" alt="Peppa Pigs old family.">
+ </body>
+ </html>
