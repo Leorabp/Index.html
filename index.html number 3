@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <title>My First Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+   <h1>Peppa Pig</h1>
+   <p>This is peppa pig. she is my favorite tv show character because shes so stupuid and funny. she has been 4 for 20 years so that makes her 24 years old. how is that possible? how could she still be 4?</p>
+    <p><a href="index.html">index.html</a></p>
+    <p>That link above takes you back to the main page.</p>
+    <p>Overall, I think that Peppa Pig is the best cartoon character in the world because she has been around for so long and literally is everyones favorite person.</p>
+    <img src="/Users/leorabowers-poulad/Desktop/coding pics/download.jpg" alt="Just plain peppa pig">
+ </body>
+ </html>
+ 
